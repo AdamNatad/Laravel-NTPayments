@@ -1,4 +1,5 @@
 # Laravel-NTPayments
+[![Unit Tests](https://github.com/thephpleague/omnipay/actions/workflows/run-tests.yml/badge.svg)](https://github.com/thephpleague/omnipay/actions/workflows/run-tests.yml)
 [![Latest Stable Version](https://poser.pugx.org/adamnatad/laravel-ntpayments/version)](https://packagist.org/packages/adamnatad/laravel-ntpayments)
 [![Total Downloads](https://poser.pugx.org/adamnatad/laravel-ntpayments/d/total)](https://packagist.org/packages/adamnatad/laravel-ntpayments)
 [![License](https://img.shields.io/github/license/adamnatad/laravel-ntpayments.svg)](LICENSE)
