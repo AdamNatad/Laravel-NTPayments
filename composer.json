@@ -22,7 +22,11 @@
     "require": {
         "illuminate/support": "^10.0",
         "illuminate/http": "^10.0",
-        "guzzlehttp/guzzle": "^7.0"
+        "guzzlehttp/guzzle": "^7.0",
+        "symfony/error-handler": "6.4",
+        "symfony/event-dispatcher": "6.4",
+        "symfony/var-dumper": "6.4",
+        "symfony/http-kernel": "6.4"
     },
     "extra": {
         "laravel": {
