@@ -8,6 +8,11 @@
             "AdamNatad\\LaravelNTPayments\\": "src/"
         }
     },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
     "authors": [
         {
             "name": "Adam Natad",
@@ -30,5 +35,8 @@
         }
     },
     "minimum-stability": "stable",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "require-dev": {
+        "phpunit/phpunit": "^12.0"
+    }
 }
