@@ -1,6 +1,6 @@
 {
     "name": "adamnatad/laravel-ntpayments",
-    "description": "A Payment Gateway for Laravel and Flutter with Xendit, PayMongo and Future Payment Providers.",
+    "description": "Modular Payment Gateway Integration Package for Laravel and Flutter (Xendit, Paymongo)",
     "type": "library",
     "license": "MIT",
     "autoload": {
