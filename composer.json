@@ -1,0 +1,34 @@
+{
+    "name": "adamnatad/laravel-ntpayments",
+    "description": "A Payment Gateway for Laravel and Flutter with Xendit, PayMongo and Future Payment Providers.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AdamNatad\\LaravelNTPayments\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Adam Natad",
+            "email": "adam@natadtech.com"
+        }
+    ],
+    "require": {
+        "illuminate/support": "^10.0",
+        "illuminate/http": "^10.0",
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "AdamNatad\\LaravelNTPayments\\Providers\\NTPProvider"
+            ],
+            "aliases": {
+                "NTPayments": "AdamNatad\\LaravelNTPayments\\Facades\\NTPayments"
+            }
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
