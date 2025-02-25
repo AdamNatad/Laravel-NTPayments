@@ -1,6 +1,9 @@
 # Laravel-NTPayments
+[![Latest Stable Version](https://poser.pugx.org/adamnatad/laravel-ntpayments/version)](https://packagist.org/packages/adamnatad/laravel-ntpayments)
+[![Total Downloads](https://poser.pugx.org/adamnatad/laravel-ntpayments/d/total)](https://packagist.org/packages/adamnatad/laravel-ntpayments)
+[![License](https://img.shields.io/github/license/adamnatad/laravel-ntpayments.svg)](LICENSE)
 
-A **modular and scalable** payment gateway integration for Laravel, supporting **Xendit** and **PayMongo** with **automatic currency conversion**, **dynamic payment method validation**, and **configurable transaction IDs**.
+A **modular and scalable** payment gateway integration for Laravel, supporting **Xendit** and **PayMongo** with **automatic currency conversion**, **dynamic payment method validation** and **configurable transaction IDs**.
 
 ---
 
